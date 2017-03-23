@@ -1,0 +1,7 @@
+{
+  "name": "purescript-node-socket",
+  "dependencies": {
+    "purescript-aff": "^2.0.3",
+    "purescript-node-streams": "^2.0.0"
+  }
+}
